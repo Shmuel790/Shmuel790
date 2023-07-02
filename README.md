@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! ![HelloThereHiThereGIF](https://github.com/Shmuel790/Shmuel790/assets/24437263/1517972f-5105-4486-9f98-52dd9cd5550d)
+👋
 
 <a href="https://app.daily.dev/samu_j"><img src="https://api.daily.dev/devcards/f09b94a22adb43818495b1c83874205c.png?r=snr" width="400" alt="Samuel's Dev Card"/></a>
 
